@@ -4,21 +4,21 @@
 ## AIM:
 To develop a simple webserver to serve html pages.
 
-## DESIGN STEPS:
-### Step 1: 
-HTML content creation.
+ALGORITHM
 
-### Step 2:
-Design of webserver workflow.
+1.HTML content creation.
 
-### Step 3:
-Implementation using Python code.
 
-### Step 4:
-Serving the HTML pages.
+2.Design of webserver workflow.
 
-### Step 5:
-Testing the webserver.
+
+3.Implementation using Python code.
+
+
+4.Serving the HTML pages.
+
+
+5.Testing the webserver.
 
 ## PROGRAM:
 ```
